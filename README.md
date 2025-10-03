@@ -1,5 +1,5 @@
 <h1 align="center">السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكاتُهُ 👋, I'm Muhammad Huzaifa Tariq</h1>
-<h3 align="center">AI-DevSecOps | Email Marketing Specialist | CyberSecurity Student</h3>
+<h3 align="center">AI-DevSecOps Engineer | Email Marketing Specialist | CyberSecurity Student || Python || Shell scripting || Linux || Ansible || Docker || Kubernetes || Terraform || Jenkins || AWS || Grafana || CI/CD || GIT</h3>
 
 - 🔭 I’m currently working on **Al Nafi Email Marketing System (EMS)**
 
