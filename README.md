@@ -8,6 +8,7 @@ I am moving toward a genuine technical-growth role in Linux support, systems, ne
 
 ## Demonstrated work
 
+- **Linux systems lab:** Verified Ubuntu/WSL2 filesystem practice and a local Python-server/`curl` client exchange with sanitized terminal evidence.
 - **OverTheWire Bandit:** Linux command-line and security problem-solving practice, with notes and a small shell example.
 - **Git and GitHub:** Completed GitHub's Introduction to Git exercise.
 - **Bash learning exercises:** Scripts covering input/output, variables, conditionals, loops, functions, backups, checks, and basic error handling.
@@ -16,7 +17,7 @@ I am moving toward a genuine technical-growth role in Linux support, systems, ne
 
 ## Currently building
 
-- A verified Linux systems-lab portfolio beginning with filesystem, operating-system, and client-server fundamentals.
+- Expanding my verified Linux systems-lab portfolio beyond its first filesystem and client-server milestone.
 - Better documentation, safe test evidence, and troubleshooting notes for my existing Bash and cron exercises.
 - Docker, cloud, and CI/CD projects only as I complete and understand the underlying hands-on work.
 
@@ -29,6 +30,7 @@ I am moving toward a genuine technical-growth role in Linux support, systems, ne
 
 ## Start here
 
+- [Linux Systems Labs](https://github.com/huzaifatariq-sahibops/linux-systems-labs)
 - [OverTheWire Bandit Labs](https://github.com/huzaifatariq-sahibops/over-the-wire-bandit-labs)
 - [Introduction to Git](https://github.com/huzaifatariq-sahibops/skills-introduction-to-git)
 - [Bash Scripting Exercises](https://github.com/huzaifatariq-sahibops/Bash-Scripting)
