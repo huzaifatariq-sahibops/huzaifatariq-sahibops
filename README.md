@@ -2,9 +2,9 @@
 
 **Technical Operations & Support | Cyber Security | Building hands-on Linux, Cloud, and DevOps skills**
 
-I work across operational support, email automation, live-session delivery, process documentation, and community systems. I have completed the coursework for my BS Cyber Security, while official completion documentation is still pending.
+I have four years of experience at Al Nafi across operational support, email automation, live-session delivery, process documentation, and community systems. I have completed all academic requirements and the final result for my BS in Cyber Security; formal degree issuance details and the final CGPA are still being confirmed.
 
-I am moving toward a genuine technical-growth role in Linux support, systems, networking, cloud operations, or junior DevOps. This profile is being rebuilt around practical evidence that I performed, tested, and can explain.
+I am moving toward a genuine technical-growth role in junior DevOps, cloud/infrastructure support, Linux systems, or junior security operations. This profile is being rebuilt around practical evidence that I performed, tested, and can explain.
 
 ## Demonstrated work
 
