@@ -38,7 +38,7 @@ I am moving toward a genuine technical-growth role in junior DevOps, cloud/infra
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-tariq-5154a3290/)
+- [LinkedIn](https://www.linkedin.com/in/m-huzaifa-tariq/)
 
 ---
 
